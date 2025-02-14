@@ -177,7 +177,7 @@ header{
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
     gap: 3rem;
     padding: 0 50px;
-}
+} 
 .properties-container .box{
     background-color: var(--bg-color);
     padding: 10px;
