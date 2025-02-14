@@ -355,39 +355,6 @@ header{
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-.footer-container {
-    text-align: center;
-    padding: 20px;
-    background-color: #222;
-    color: white;
-}
-
-.footer-container iframe {
-    max-width: 100%;
-    border-radius: 10px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
 /* -------- Responsive -------- */
 @media (max-width: 1080px){
     .container{
