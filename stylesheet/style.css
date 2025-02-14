@@ -257,7 +257,7 @@ header{
 /* footer */
 .footer{
     background: var(--main-color);
-/*     color: var(--bg-color); */
+    color: var(--bg-color);
     border-radius: 5rem 0 0 0;
 }
 .footer-container{
